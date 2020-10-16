@@ -1,6 +1,6 @@
 # Poppin Ballon
 
-![baloons](/images/print_screen.png)
+![baloons](/images/ballons.gif)
 
 
 
