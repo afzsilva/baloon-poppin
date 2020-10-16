@@ -1,6 +1,6 @@
 # Poppin Ballon
 
-![Screenshot from 2020-10-15 20-27-02](/home/afzs/FrontEnd-workspace/javascript/mini_projetos/baloon_poppin/images/print_screen.png)
+![baloons](/images/print_screen.png)
 
 
 
